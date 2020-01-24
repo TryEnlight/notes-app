@@ -1,10 +1,10 @@
-# Enlight
+# Notes App
 
-The new Enlight website - built with React, Gatsby, and Firebase.
+Built with React, Gatsby, and Firebase.
 
 ```
-git clone https://github.com/tryenlight/site.git
-cd site
+git clone https://github.com/tryenlight/notes-app.git
+cd notes-app
 npm install
 gatsby develop
 visit http://localhost:8000/
